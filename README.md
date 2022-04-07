@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @salomaogabriel
-- 👀 I’m interested in react, PHP
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-salomaogabriel/salomaogabriel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<a><h2>Stats</h2></a>
+<div>
+    <a href="https://github-readme-stats.vercel.app">
+        <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=salomaogabriel&theme=onedark&custom_title=GitHub+Stats&hide_border=true"/>
+    </a>
+    <a href="https://github-readme-streak-stats.herokuapp.com">
+        <img width="49%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=salomaogabriel&theme=onedark&hide_border=true"/>
+    </a>
+    <a><h2>Trophies</h2></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=salomaogabriel&row=4&theme=onedark&no-frame=true"/>
+    </a>    
+    </a>
+  
+</div>
