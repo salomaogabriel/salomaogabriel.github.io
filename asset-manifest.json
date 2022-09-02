@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.31694b9a.css",
+    "main.js": "/static/js/main.f0ea5e09.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/ufba.png": "/static/media/ufba.8ae4cda76947ef71bab2.png",
+    "static/media/aisc.png": "/static/media/aisc.25552a756302d17a4561.png",
+    "static/media/projects.svg": "/static/media/projects.979fdb5743813107c0c5cbe1ae5b5607.svg",
+    "index.html": "/index.html",
+    "static/media/github.svg": "/static/media/github.40e77b547cd2b0bb2d17f5871db2cf18.svg",
+    "static/media/githubdark.svg": "/static/media/githubdark.fd0933153e0cd863c2c1f88083d85102.svg",
+    "static/media/githublight.svg": "/static/media/githublight.bac837972e8209046aff5cf0abb0ad05.svg",
+    "static/media/calendar.svg": "/static/media/calendar.acfa034ff7c5a3daabaaca9eca7d433f.svg",
+    "static/media/demo.svg": "/static/media/demo.3ca8f20072ee66881dbfbaf210d6b0e4.svg",
+    "static/media/demodark.svg": "/static/media/demodark.2f5625a810c819a3c009aba9f1a822ae.svg",
+    "static/media/education.svg": "/static/media/education.78d8bdc68fc739e5ec8f97f00119ac1b.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.d07ba6f38fdc9ae58c905f00f53378c3.svg",
+    "static/media/plus.svg": "/static/media/plus.0fb1ff867b207ff3afb5af4d2cf2cea5.svg",
+    "main.31694b9a.css.map": "/static/css/main.31694b9a.css.map",
+    "main.f0ea5e09.js.map": "/static/js/main.f0ea5e09.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31694b9a.css",
+    "static/js/main.f0ea5e09.js"
+  ]
+}
